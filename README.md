@@ -37,14 +37,6 @@ I build systems that are scalable, secure, real-time, and clean — with develop
 Dev playground for testing Keycloak configurations, realms, and tokens.  
 → Angular · .NET · PostgreSQL · Docker · Tailwind
 
-### 🧩 [PlugAuth](https://github.com/iamarshrx/plugauth)  
-Plug-and-play hosted auth UI built on Keycloak — works with any stack.  
-→ Angular · Identity SDK · OAuth2
-
-### 🛠️ [awesome-identity-tools](https://github.com/iamarshrx/awesome-identity-tools)  
-Snippets, JWT scripts, Postman test flows, and Keycloak configs.  
-Includes shell scripts, CLI tools, and token testers.
-
 ---
 
 ## 🏢 Enterprise Work (Built for Employers)
