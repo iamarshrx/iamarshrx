@@ -1,85 +1,99 @@
 <h1 align="center">Arshak Ahamed</h1>
 
 <p align="center">
-  Senior Software Engineer · SaaS Architect in Progress · OSS Contributor  
-  Designing developer-first systems with scale, clarity, and purpose.
+  💼 Senior Software Engineer & Aspiring Software Architect<br/>
+  🔧 OSS Contributor | 🔐 Identity Systems | ⚡ Real-Time Architecture
 </p>
 
 ---
 
-## 🚀 Vision
+## 🚀 About Me
 
-I’m Arshak — a full-stack engineer who loves building systems that empower developers, streamline complex processes, and scale with confidence.  
-My focus is on contributing to the engineering community through tools, open source, and real-world solutions — with developer experience at the core.
+I’m Arshak — a full-stack engineer who designs and builds systems that scale confidently, perform reliably, and empower developers to ship faster.
+
+I focus on:
+- Clean architecture and real-time performance
+- Scalable SaaS design with modular thinking
+- Developer-first tooling and open-source contribution
 
 ---
 
 ## 🧬 Tech Stack
 
-| Domain | Tools |
-|--------|-------|
-| 🔧 Backend | .NET · Laravel · Node.js · **PHP** |
-| 💻 Frontend | Angular · TailwindCSS · Bootstrap · JavaScript · jQuery · **WordPress** |
-| 🔐 Identity | Keycloak · OAuth2 · JWT |
-| ⚡ Real-Time | SignalR · Firebase · RabbitMQ |
-| ☁️ Cloud | AWS · Azure · Docker · Bitnami · VPS |
-| 📄 Databases | PostgreSQL · MySQL · MongoDB |
-| 🧰 Tooling | GitHub Actions · Postman · Swagger · CI/CD · NGINX |
-| 🪨 Scripting | Bash · Shell · Node.js scripts · Postman CLI · Laravel Artisan · custom deploy scripts |
+| Category       | Tools                                                                 |
+|----------------|------------------------------------------------------------------------|
+| **Backend**     | .NET · Laravel · Node.js · PHP                                          |
+| **Frontend**    | Angular · TailwindCSS · Bootstrap · JavaScript · jQuery · WordPress     |
+| **Identity**    | Keycloak · OAuth2 · JWT                                                 |
+| **Real-Time**   | SignalR · Firebase · RabbitMQ                                           |
+| **Databases**   | PostgreSQL · MySQL · MongoDB                                            |
+| **Cloud & Infra** | AWS · Azure · Docker · Bitnami · VPS · Apache · NGINX                 |
+| **Tooling**     | GitHub Actions · Postman · Swagger · CI/CD Pipelines                   |
+| **Scripting**   | Bash · Shell · Laravel Artisan · Node.js scripts · Postman CLI         |
 
-> I don't just code apps — I automate them, test them, and deploy them with confidence.
-
----
-
-## 🛠️ Projects
-
-### 🔑 [KeycloakKit](https://keycloakkit.com)  
-Dev playground for testing Keycloak configurations, realms, and tokens.  
-**Stack:** Angular · .NET · Tailwind · PostgreSQL · Docker
+> “I don’t just build software — I automate, optimize, and scale it with clarity.”
 
 ---
 
-## 🏢 Enterprise Work (Built for Employers)
+## 🛠️ Key Projects
 
--- **🎓 Digital ID Platform (Australia)**  
-  Real-time student ID generation with secure QR/barcode card printing and automated printer sync integration.  
-  Utilized MySQL alongside PostgreSQL for hybrid data needs.  
-  → .NET · PostgreSQL · MySQL · Keycloak · jQuery · Shell scripts
+### 🔑 [KeycloakKit](https://keycloakkit.com)
+> ⚙️ Identity playground for developers  
+Generate Keycloak realms, users, roles, and clients instantly — no setup required.  
+**Stack:** Angular · .NET · PostgreSQL · Docker · TailwindCSS
 
-- **🚚 Fleet Management (Oman)**  
-  Real-time vehicle tracking, task automation via Hangfire  
-  → Angular · C# · PostgreSQL · SignalR · Bash
+### 🧩 [PlugAuth](https://github.com/iamarshrx/plugauth)
+> 🧠 Hosted Auth UI for any stack  
+Keycloak-powered login/signup screens with plug-and-play simplicity.  
+**Stack:** Angular · OAuth2 · Identity SDK
 
-- **🍔 Food Delivery System (Oman)**  
-  Multi-role portals with real-time order tracking, delivery status updates, and notification broadcasting.  
-  Included .NET-based API services with SignalR-powered communication and scheduled dispatching using Hangfire.  
-  → Angular · .NET · REST APIs · PostgreSQL · SignalR · Hangfire
-
-- **🛍️ Tour Guide App (KSA)**  
-  Live route sync + tourist info overlays in real time  
-  → .NET · MongoDB · Firebase · RabbitMQ
+### 🧰 [awesome-identity-tools](https://github.com/iamarshrx/awesome-identity-tools)
+> 🧪 Developer toolkit for auth flows  
+Shell scripts, token testers, curl snippets, Postman collections, and more.
 
 ---
 
-## ✍️ Articles & Insights
+## 🏢 Enterprise Experience (Built for Employers)
 
-I share insights on system architecture, dev tools, and identity management.  
-Featured post:
+### 🎓 Digital ID Platform – Australia  
+Secure digital student ID generation with QR/barcode printing and automated printer sync.  
+Hybrid data solution with MySQL + PostgreSQL.  
+**Tech:** .NET · MySQL · PostgreSQL · Keycloak · jQuery · Shell
 
-### 🧠 [A Seamless Guide to Keycloak Integration with .NET Applications](https://medium.com/@iamarshrx/a-seamless-guide-to-keycloak-integration-with-net-applications-enhance-security-user-management-xxxxx)  
-> How to integrate Keycloak into your .NET apps with real-world implementation and role-based control.
+### 🚚 Fleet Management – Oman  
+Real-time vehicle tracking with SignalR dashboards and job queues via Hangfire.  
+**Tech:** Angular · C# · PostgreSQL · SignalR · Hangfire · Bash
 
-Read more on [Medium →](https://medium.com/@iamarshrx)
+### 🍔 Food Delivery System – Oman  
+Multi-role delivery platform with real-time order tracking, SignalR-based updates, and scheduled dispatches.  
+**Tech:** Angular · .NET · REST APIs · PostgreSQL · SignalR · Hangfire
+
+### 🧭 Tour Guide App – KSA  
+Live route syncing and multilingual overlays with real-time Firebase communication.  
+**Tech:** .NET · MongoDB · Firebase · RabbitMQ
 
 ---
 
-## 🎯 Mission
+## ✍️ Featured Article
 
-> “A true architect doesn’t just build apps — they automate flow, remove friction, and scale with clarity.”
+### 🧠 [A Seamless Guide to Keycloak Integration with .NET](https://medium.com/@iamarshrx/a-seamless-guide-to-keycloak-integration-with-net-applications-enhance-security-user-management-xxxxx)
+Real-world Keycloak integration for .NET apps — token handling, role-based access, and centralized identity management.  
+📰 Read more: [medium.com/@iamarshrx](https://medium.com/@iamarshrx)
 
-I focus on:
-- Seamless identity layers
-- Real-time, event-driven architecture
-- Task queues & worker automation
-- Developer-first tooling with long-term scale
-- Extreme WordPress customization and PHP scripting when needed
+---
+
+## 🎯 Core Values
+
+> “Architects build frameworks that empower others.”
+
+I believe in:
+- Architecting for clarity and scale  
+- Open-sourcing what I learn  
+- Automating workflows to free developers from repetition  
+- Going to any extreme — even WordPress and PHP — when it’s what the system needs
+
+---
+
+## 🤝 Let’s Connect
+
+📬 [Twitter](https://twitter.com/iamarshrx) · [LinkedIn](https://linkedin.com/in/your-link) · [KeycloakKit](https://keycloakkit.com) · [Medium](https://medium.com/@iamarshrx)
