@@ -41,16 +41,6 @@ I focus on:
 > ⚙️ Identity playground for developers  
 Generate Keycloak realms, users, roles, and clients instantly — no setup required.  
 **Stack:** Angular · .NET · PostgreSQL · Docker · TailwindCSS
-
-### 🧩 [PlugAuth](https://github.com/iamarshrx/plugauth)
-> 🧠 Hosted Auth UI for any stack  
-Keycloak-powered login/signup screens with plug-and-play simplicity.  
-**Stack:** Angular · OAuth2 · Identity SDK
-
-### 🧰 [awesome-identity-tools](https://github.com/iamarshrx/awesome-identity-tools)
-> 🧪 Developer toolkit for auth flows  
-Shell scripts, token testers, curl snippets, Postman collections, and more.
-
 ---
 
 ## 🏢 Enterprise Experience (Built for Employers)
