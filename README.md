@@ -1,4 +1,4 @@
-<h1 align="center">Arshak M. Rafeek</h1>
+<h1 align="center">Arshak Ahamed</h1>
 
 <p align="center">
   Senior Software Engineer · SaaS Architect in Progress · OSS Contributor  
@@ -9,12 +9,12 @@
 
 ## 🚀 Vision
 
-I'm Arshak — a full-stack engineer driven to design robust, scalable systems that blend solid architecture with practical execution.  
+I’m Arshak — a full-stack engineer on a mission to become a **world-class software architect**.  
 I build systems that are scalable, secure, real-time, and clean — with developer experience at the core.
 
 ---
 
-## 🧠 Tech Stack
+## 🧬 Tech Stack
 
 | Domain | Tools |
 |--------|-------|
@@ -23,9 +23,9 @@ I build systems that are scalable, secure, real-time, and clean — with develop
 | 🔐 Identity | Keycloak · OAuth2 · JWT |
 | ⚡ Real-Time | SignalR · Firebase · RabbitMQ |
 | ☁️ Cloud | AWS · Azure · Docker · Bitnami · VPS |
-| 🗄️ Databases | PostgreSQL · MySQL · MongoDB |
-| 🧪 Tooling | GitHub Actions · Postman · Swagger · CI/CD · NGINX |
-| 🧰 Scripting | Bash · Shell · Node.js Scripts · Laravel Artisan · Postman CLI |
+| 📄 Databases | PostgreSQL · MySQL · MongoDB |
+| 🧰 Tooling | GitHub Actions · Postman · Swagger · CI/CD · NGINX |
+| 🪨 Scripting | Bash · Shell · Node.js scripts · Postman CLI · Laravel Artisan · custom deploy scripts |
 
 > I don't just code apps — I automate them, test them, and deploy them with confidence.
 
@@ -35,25 +35,34 @@ I build systems that are scalable, secure, real-time, and clean — with develop
 
 ### 🔑 [KeycloakKit](https://keycloakkit.com)  
 Dev playground for testing Keycloak configurations, realms, and tokens.  
-→ Angular · .NET · PostgreSQL · Docker · Tailwind
+**Stack:** Angular · .NET · Tailwind · PostgreSQL · Docker
+
+### 🧹 [PlugAuth](https://github.com/iamarshrx/plugauth)  
+Plug-and-play hosted auth UI built on Keycloak — works with any stack.  
+**Stack:** Angular · Identity SDK · OAuth2
+
+### 🛠️ [awesome-identity-tools](https://github.com/iamarshrx/awesome-identity-tools)  
+Snippets, JWT scripts, Postman test flows, and Keycloak configs.  
+Includes shell scripts, CLI tools, and token testers.
 
 ---
 
 ## 🏢 Enterprise Work (Built for Employers)
 
-- 🎓 **Digital ID Platform – Australia**  
-  Secure digital student cards with QR/barcode generation  
+- **🎓 Digital ID Platform (Australia)**  
+  Real-time student ID generation with secure QR/barcode card printing  
   → .NET · PostgreSQL · Keycloak · jQuery · Shell scripts
 
-- 🚚 **Fleet Management (Oman)**  
+- **🚚 Fleet Management (Oman)**  
   Real-time vehicle tracking, task automation via Hangfire  
-  → Angular · C# · PostgreSQL · IIS · SignalR
+  → Angular · C# · PostgreSQL · SignalR · Bash
 
-- 🍔 **Food Delivery System (Oman)**  
-  Role-based portals with custom ordering workflows  
-  → Angular · REST APIs · PostgreSQL
+- **🍔 Food Delivery System (Oman)**  
+  Multi-role portals with real-time order tracking, delivery status updates, and notification broadcasting.  
+  Included .NET-based API services with SignalR-powered communication and scheduled dispatching using Hangfire.  
+  → Angular · .NET · REST APIs · PostgreSQL · SignalR · Hangfire
 
-- 🧭 **Tour Guide App (KSA)**  
+- **🛍️ Tour Guide App (KSA)**  
   Live route sync + tourist info overlays in real time  
   → .NET · MongoDB · Firebase · RabbitMQ
 
@@ -61,35 +70,35 @@ Dev playground for testing Keycloak configurations, realms, and tokens.
 
 ## ✍️ Articles & Insights
 
-I write about building secure, scalable systems, real-time flows, and developer tools.  
-One of my most-read articles:
+I share insights on system architecture, dev tools, and identity management.  
+Featured post:
 
 ### 🧠 [A Seamless Guide to Keycloak Integration with .NET Applications](https://medium.com/@iamarshrx/a-seamless-guide-to-keycloak-integration-with-net-applications-enhance-security-user-management-xxxxx)  
-How to integrate Keycloak into your .NET apps for modern authentication, role-based access, and centralized user management.
+> How to integrate Keycloak into your .NET apps with real-world implementation and role-based control.
 
-Explore more on [Medium →](https://medium.com/@iamarshrx)
+Read more on [Medium →](https://medium.com/@iamarshrx)
 
 ---
 
 ## 🎯 Mission
 
-> “A true architect doesn’t just build apps — they automate flow, remove friction, and scale gracefully.”
+> “A true architect doesn’t just build apps — they automate flow, remove friction, and scale with clarity.”
 
 I focus on:
-- Seamless identity layers  
-- Real-time event-driven architecture  
-- Task queues, worker automation, and scripting  
-- Developer-first tools that feel like superpowers
+- Seamless identity layers
+- Real-time, event-driven architecture
+- Task queues & worker automation
+- Developer-first tooling with long-term scale
 
 ---
 
-## 🤝 Let’s Build
+## 🤝 Let’s Collaborate
 
-Want to build something world-class?  
-Let’s architect it right — the first time.
+Have a tool idea? Need to scale your SaaS? Want to script the boring parts?  
+I’m open to OSS collabs, mentoring, and architecture consulting.
 
-📫 [Twitter](https://twitter.com/iamarshrx) | [LinkedIn](https://linkedin.com/in/your-link) | [keycloakkit.com](https://keycloakkit.com) | [Medium](https://medium.com/@iamarshrx)
+📫 [Twitter](https://twitter.com/iamarshrx) · [LinkedIn](https://linkedin.com/in/your-link) · [KeycloakKit](https://keycloakkit.com) · [Medium](https://medium.com/@iamarshrx)
 
 ---
 
-<p align="center"><i>Committed to engineering excellence — one script, one system, one repo at a time.</i></p>
+<p align="center"><i>On a mission to become a world-class architect — one script, one system, one repo at a time.</i></p>
