@@ -9,8 +9,8 @@
 
 ## 🚀 Vision
 
-I’m Arshak — a full-stack engineer on a mission to become a **world-class software architect**.  
-I build systems that are scalable, secure, real-time, and clean — with developer experience at the core.
+I’m Arshak — a full-stack engineer who loves building systems that empower developers, streamline complex processes, and scale with confidence.  
+My focus is on contributing to the engineering community through tools, open source, and real-world solutions — with developer experience at the core.
 
 ---
 
@@ -18,8 +18,8 @@ I build systems that are scalable, secure, real-time, and clean — with develop
 
 | Domain | Tools |
 |--------|-------|
-| 🔧 Backend | .NET · Laravel · Node.js |
-| 💻 Frontend | Angular · TailwindCSS · Bootstrap · JavaScript · jQuery |
+| 🔧 Backend | .NET · Laravel · Node.js · **PHP** |
+| 💻 Frontend | Angular · TailwindCSS · Bootstrap · JavaScript · jQuery · **WordPress** |
 | 🔐 Identity | Keycloak · OAuth2 · JWT |
 | ⚡ Real-Time | SignalR · Firebase · RabbitMQ |
 | ☁️ Cloud | AWS · Azure · Docker · Bitnami · VPS |
@@ -89,16 +89,4 @@ I focus on:
 - Real-time, event-driven architecture
 - Task queues & worker automation
 - Developer-first tooling with long-term scale
-
----
-
-## 🤝 Let’s Collaborate
-
-Have a tool idea? Need to scale your SaaS? Want to script the boring parts?  
-I’m open to OSS collabs, mentoring, and architecture consulting.
-
-📫 [Twitter](https://twitter.com/iamarshrx) · [LinkedIn](https://linkedin.com/in/your-link) · [KeycloakKit](https://keycloakkit.com) · [Medium](https://medium.com/@iamarshrx)
-
----
-
-<p align="center"><i>On a mission to become a world-class architect — one script, one system, one repo at a time.</i></p>
+- Extreme WordPress customization and PHP scripting when needed
