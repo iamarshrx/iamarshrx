@@ -41,9 +41,10 @@ Dev playground for testing Keycloak configurations, realms, and tokens.
 
 ## 🏢 Enterprise Work (Built for Employers)
 
-- **🎓 Digital ID Platform (Australia)**  
-  Real-time student ID generation with secure QR/barcode card printing  
-  → .NET · PostgreSQL · Keycloak · jQuery · Shell scripts
+-- **🎓 Digital ID Platform (Australia)**  
+  Real-time student ID generation with secure QR/barcode card printing and automated printer sync integration.  
+  Utilized MySQL alongside PostgreSQL for hybrid data needs.  
+  → .NET · PostgreSQL · MySQL · Keycloak · jQuery · Shell scripts
 
 - **🚚 Fleet Management (Oman)**  
   Real-time vehicle tracking, task automation via Hangfire  
