@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I’m Arshak — a full-stack engineer who designs and builds systems that scale confidently, perform reliably, and empower developers to ship faster.
+I’m Arshak a full-stack engineer who designs and builds systems that scale confidently, perform reliably, and empower developers to ship faster.
 
 I focus on:
 - Clean architecture and real-time performance
